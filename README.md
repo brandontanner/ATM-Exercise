@@ -1,5 +1,5 @@
 # ATM Exercise
-!(/ATM screenshot.png)
+![ATM Screenshot](ATM screenshot.png)
 
 ### Description
 
