@@ -1,9 +1,10 @@
 # ATM Exercise
-![ATM Screenshot](atm.png)
 
 ### Description
 
 This program allows users to deposit and withdraw money from an ATM machine, and keeps track of the account balance. The program includes a drop down menu from which the user can select deposit or withdrawal. When selected, a number input box appears along with a submit button that can be used to input an amount into the account. If the input is negative or if the user is trying to withdraw more money than is in the account, the submit button is disabled to not allow for the transaction to occur. 
+
+![ATM Screenshot](atm.png)
 
 ### How to Run
 
