@@ -13,6 +13,19 @@ This program allows users to deposit and withdraw money from an ATM machine, and
 3. When that is complete, load **localhost:8080** in the browser and click on the link for **index.html**. This will load the project in the browser.
 4. Select an option in the drop down menu, type a number in the input box, and press submit to interact with the program.
 
+### Technology Used
+
+- HTML
+- Javascript
+- CSS
+- React
+
+### Features
+
+- Drop down menu to select deposit or withdrawal.
+- Input box and submit button for deposit and withdrawal.
+- Cannot withdraw more money than is in the account.
+
 ### Roadmap of Future Improvements
 
 - **Transaction History** I plan to add the functionality of the program logging each of the transactions in a transaction history that will appear as a list.
